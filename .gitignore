@@ -1,0 +1,35 @@
+#Archivos genericos
+*.log 
+.vscode
+.DS_Store
+Thumbs.db
+.env
+/tmp
+ReadmeInstall.md
+#Node Js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+.npm/
+.yarn/
+.pnp/
+.pnp.js
+
+dist/
+build/
+coverage/
+.nyc_output/
+
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.turbo/
+
+*.tgz
+*.tar.gz
+
+.eslintcache
