@@ -1,1 +1,3 @@
-### Mi primer Proyecto con GIT
+#Comandos basicos
+##Manejo y configuracion de software
+###Cuarto software A
